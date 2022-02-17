@@ -46,8 +46,7 @@ const Timeline = () => {
     <Section id="about">
       
       <SectionDivider></SectionDivider>
-      <br />
-      <SectionTitle>About Me</SectionTitle>
+      <SectionTitle main>About Me</SectionTitle>
       <SectionText>
         Hello wowow
       </SectionText>
